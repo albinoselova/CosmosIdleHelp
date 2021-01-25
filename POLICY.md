@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Policy"
-permalink: /policy/
+permalink: /policy
 ---
 The Application ("us", "we" or "the Application") has created this Policy to explain our privacy practices so that you will understand what information about you is collected, used and disclosed with respect to the Application.
 By using the Application, you consent to the privacy practices described in this Policy.
