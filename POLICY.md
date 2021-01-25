@@ -1,3 +1,7 @@
+layout: page
+title: "Policy"
+permalink: /policy/
+
 The Application ("us", "we" or "the Application") has created this Policy to explain our privacy practices so that you will understand what information about you is collected, used and disclosed with respect to the Application.
 By using the Application, you consent to the privacy practices described in this Policy.
 This Policy covers our collection, use and disclosure of your information through the Application. It does not cover any collection, use or disclosure by third parties through the Application that we do not control or own, such as Facebook, or any third party features or services made available via the Application. All trademarks, trade names, and logos of third parties featured on the Application belong to their respective owners.
